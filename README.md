@@ -1,5 +1,5 @@
 # FIFA
-Data Visualization Project On FIFA World Cup
+Data Visualization & Analysis Project On FIFA World Cup
 
 With FIFA is in the blood of many people of the world. You are tasked to tell the story of unsung
 analysts who put great efforts to provide accurate data to answer every question of fans. The
